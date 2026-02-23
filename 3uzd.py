@@ -17,4 +17,4 @@ for p in partitions:
     used = int(data[3])
     
     if used >= 90:
-        print("uzmanību:", label, "disks ir pilns!")
+        print("UZMANĪBU:", label, "disks ir pilns!")
